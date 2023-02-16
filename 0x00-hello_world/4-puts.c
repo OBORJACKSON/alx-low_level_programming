@@ -1,9 +1,9 @@
 #include  <stdio.h>
 
+
 /**
- * main - prints "Programming is like a multilingual puzzle, followed by a new line."
- *
- * Return: Always 0 (Success)
+ * main - prints "Programming is like a multilingual puzzle, followed by a new line.
+ * Return: Always 0.
  */
 
 int main(void)
